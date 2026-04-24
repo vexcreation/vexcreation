@@ -7,7 +7,7 @@
 ---
 
 I'm a self-taught fullstack developer from bavaria  
-:man_technologist: Working as Office Management  
+:man_technologist: Working as Softwareengineer
 
 :gear: I use daily: ``.js`` ``.lua`` ``.ts`` ``.html`` ``.css``  
 
