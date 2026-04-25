@@ -39,15 +39,15 @@ I'm a self-taught fullstack developer from bavaria
 
 # :bar_chart: GitHub Stats  
 
-![](https://github-readme-stats.vercel.app/api?username=ardaxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
-![](https://github-readme-streak-stats.herokuapp.com/?user=ardaxyz&theme=dark&hide_border=false)<br/> 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardaxyz&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=vexcreation&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/> 
+![](https://github-readme-streak-stats.herokuapp.com/?user=vexcreation&theme=dark&hide_border=false)<br/> 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vexcreation&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ## :trophy: GitHub Trophies  
 
-![](https://github-profile-trophy.vercel.app/?username=ardaxyz&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
+![](https://github-profile-trophy.vercel.app/?username=vexcreation&theme=radical&no-frame=false&no-bg=true&margin-w=4)  
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=ardaxyz&icon=0&color=0)](https://visitcount.itsvg.in) 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/848248238866825246)
+[![](https://visitcount.itsvg.in/api?id=vexcreation&icon=0&color=0)](https://visitcount.itsvg.in) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/1188534461869084672)
