@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 590 320" width="590" height="320" role="img" aria-label="motion_backpacks: Backpack system for FiveM that runs on every major framework and standalone, with a React interface.">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#2FD6B4"/><stop offset="1" stop-color="#22B8CF"/></linearGradient>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.2" fill="#1E3D42"/></pattern>
+<style>.a{transform-box:fill-box;animation-fill-mode:both;animation-timing-function:cubic-bezier(.16,1,.3,1)}
+.up{animation-name:up;animation-duration:.8s}.fade{animation-name:fade;animation-duration:.6s}
+.pop{transform-origin:center;animation-name:pop;animation-duration:.55s;animation-timing-function:cubic-bezier(.34,1.56,.64,1)}
+.left{animation-name:left;animation-duration:.8s}
+@keyframes up{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fade{from{opacity:0}to{opacity:1}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+@keyframes left{from{opacity:0;transform:translateX(-18px)}to{opacity:1;transform:none}}
+
+.sweep{animation:sweep 7s linear infinite}@keyframes sweep{from{stroke-dashoffset:1000}to{stroke-dashoffset:0}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}.spin{transform-box:fill-box;transform-origin:center;animation:spin .9s cubic-bezier(.34,1.56,.64,1) .2s both}
+@keyframes spin{from{opacity:0;transform:rotate(-90deg) scale(.3)}to{opacity:1;transform:none}}
+.pulse{transform-box:fill-box;transform-origin:center;animation:pulse 2s ease-out 1.4s infinite}
+@keyframes pulse{0%{opacity:.7;transform:scale(1)}100%{opacity:0;transform:scale(3)}}</style></defs>
+<rect x="1" y="1" width="588" height="318" rx="18" fill="#132B30" stroke="#21424A" stroke-width="2"/><rect class="sweep" x="1" y="1" width="588" height="318" rx="18" fill="none" stroke="url(#g)" stroke-width="2.5" pathLength="1000" stroke-dasharray="140 860"/>
+<g class="spin"><path d="M44 37 L49 42 L44 47 L39 42 Z" fill="#3DDBBD"/><path d="M50 43 L55 48 L50 53 L45 48 Z" fill="#3DDBBD"/><path d="M44 49 L49 54 L44 59 L39 54 Z" fill="#3DDBBD"/><path d="M38 43 L43 48 L38 53 L33 48 Z" fill="#3DDBBD"/></g><text class="a left" style="animation-delay:0.30s" x="64" y="54" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="16" font-weight="600" fill="#3DDBBD" text-anchor="start" >System</text>
+<g class="a fade" style="animation-delay:0.50s"><rect x="397" y="32" width="157" height="30" rx="15" fill="none" stroke="#21424A" stroke-width="2"/><circle class="pulse" cx="413" cy="47" r="4" fill="#3DDBBD"/><circle cx="413" cy="47" r="4" fill="url(#g)"/><text x="425" y="52" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="15" font-weight="500" fill="#9DB7B2" text-anchor="start" >In development</text>
+</g><text class="a up" style="animation-delay:0.40s" x="36" y="118" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="38" font-weight="700" fill="#F2F7F6" text-anchor="start" >motion_backpacks</text>
+<text class="a up" style="animation-delay:0.55s" x="36" y="162" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="19" font-weight="400" fill="#9DB7B2" text-anchor="start" >Backpack system for FiveM that runs on</text>
+<text class="a up" style="animation-delay:0.62s" x="36" y="190" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="19" font-weight="400" fill="#9DB7B2" text-anchor="start" >every major framework and standalone,</text>
+<text class="a up" style="animation-delay:0.69s" x="36" y="218" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="19" font-weight="400" fill="#9DB7B2" text-anchor="start" >with a React interface.</text>
+<g class="a pop" style="animation-delay:0.85s"><rect x="36.0" y="256.0" width="53.0" height="32.0" rx="7" fill="#183A40" /><text x="62.5" y="277" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="15" font-weight="500" fill="#CFE5E1" text-anchor="middle" >Lua</text>
+</g><g class="a pop" style="animation-delay:0.91s"><rect x="99.0" y="256.0" width="70.0" height="32.0" rx="7" fill="#183A40" /><text x="134.0" y="277" font-family="Segoe UI,system-ui,-apple-system,Helvetica Neue,Arial,sans-serif" font-size="15" font-weight="500" fill="#CFE5E1" text-anchor="middle" >React</text>
+</g></svg>
