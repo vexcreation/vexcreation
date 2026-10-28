@@ -9,4 +9,4 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg"><img alt="Stack: TypeScript, JavaScript, Lua, SQL, React, Vue, Vite, SCSS, Node.js, Express, MariaDB, MySQL, Debian, pm2, Cloudflare Tunnel, Apache, Figma, Blender" src="./assets/stack-light.svg" width="100%"></picture>
 
-<p align="center"><a href="mailto:EMAIL_EINTRAGEN">EMAIL_EINTRAGEN</a></p>
+<p align="center"><a href="mailto:EMAIL_EINTRAGEN">hello@vexsolution.de</a></p>
